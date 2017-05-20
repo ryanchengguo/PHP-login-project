@@ -40,7 +40,7 @@ endif;
 <body>
 
 	<div class="header">
-		<a href="/">Your App Name</a>
+		<a href="/">Login System</a>
 	</div>
 
 	<?php if(!empty($message)): ?>
